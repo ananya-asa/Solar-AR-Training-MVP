@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 382c2080e700a70479646e493c6cd910
+  - enabled: 1
+    path: Assets/Scenes/ComponentOverview.unity
+    guid: 01d697f1b1aedb94f9b83316baca5000
+  - enabled: 1
+    path: Assets/Scenes/Installation.unity
+    guid: ce176691d037d6046a124b6419c48029
+  - enabled: 1
+    path: Assets/Scenes/intermediate.unity
+    guid: 4f3cd0cfad35fa14f9318e6dcb6d32ca
+  - enabled: 1
+    path: Assets/Scenes/ARPlacementFinal.unity
+    guid: 9fdee5fa40907844b9cac81818f476b6
+  - enabled: 1
+    path: Assets/Scenes/QuizScene.unity
+    guid: b1ea65342cf741c4a949c216aeca94ff
+  - enabled: 1
+    path: Assets/Scenes/AssessmentIntermediator.unity
+    guid: 47cf40cb5f7acfe4fa5d2bf9eacc10fd
+  - enabled: 1
+    path: Assets/Scenes/ARAssessment.unity
+    guid: c35f901128284ce47bd5aa80d446a65d
+  - enabled: 0
+    path: Assets/Scenes/ARSolar.unity
+    guid: a258e261e4789bb48bbcda7ad1adb9e9
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a5f8a9f268f4f5f48a7afcb74f4200d0, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 41c5696628c0f9e4b8c7cfd105c432e5, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 30e5c58095ea93d4eb21dd5b0b7ce30f, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 80964123f5095a34aa1ab8080256e4b3, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d7acbcf40be86d244b36e5781b9a90af, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 53a9bfb5f389dbc489873187ed672c79, type: 2}
