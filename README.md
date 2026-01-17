@@ -339,11 +339,11 @@ Contributions are welcome! Please follow these steps:
 
 This project was developed as part of an internship program.
 
-**Copyright © 2025 Chainfly Solar AR**
+**Copyright © 2025 Chainfly.All rights reserved**
 
 ---
 
-## 👨‍💻 **Author**
+## 👨‍💻 **Developer**
 
 **[Ananya]**
 
@@ -351,12 +351,12 @@ This project was developed as part of an internship program.
 
 
 ## 🙏 **Acknowledgments**
-
+- **Chainfly** - Project ownership, mentorship, and internship opportunity
 - **Unity Technologies** - Game Engine
 - **Google ARCore** - AR Platform
 - **NASA POWER** - Solar Data API
 - **TextMesh Pro** - Typography
-- **Chainfly** - Internship Opportunity
+
 
 ---
 
